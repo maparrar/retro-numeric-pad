@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background: goldenrod;
+}
+
+.key {
+  margin: 5px;
+  height: 90px;
+  width: 90px;
+
+  .chars {
+    color: red;
+    font-size: 0.8rem;
+    
+  }
+}
