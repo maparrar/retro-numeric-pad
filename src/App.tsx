@@ -55,7 +55,7 @@ const keys: Key[][] = [
   [
     {
       label: '*',
-      chars: []
+      chars: ['*']
     },
     {
       label: '0',
@@ -63,7 +63,7 @@ const keys: Key[][] = [
     },
     {
       label: '#',
-      chars: []
+      chars: ['#']
     }
   ],
 ]
